@@ -1,0 +1,10 @@
+igraph
+networkx
+scikit-learn
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+notebook==6.5.6
+
